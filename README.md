@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatıma Saliha Biter</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="left">A passionate software developer from Turkey</h3>
 
 <p align="left">🔭 I am currently working on "carrental" and "nortwindproject" projects that I developed using Angular on the front end, and "ReCapProject" and "MyFinalProject" projects that I developed using Asp.Net Core on the backend.</p>
 
